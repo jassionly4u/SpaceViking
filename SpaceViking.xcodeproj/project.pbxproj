@@ -489,6 +489,7 @@
 		C6F9AB5C15DD0E5900B25175 = {
 			isa = PBXGroup;
 			children = (
+				C695637415DE4C0500F1C20D /* libz.1.1.3.dylib */,
 				C6F9AB7B15DD0E5900B25175 /* SpaceViking */,
 				C6F9AB6A15DD0E5900B25175 /* Frameworks */,
 				C6F9AB6815DD0E5900B25175 /* Products */,
@@ -506,7 +507,6 @@
 		C6F9AB6A15DD0E5900B25175 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C695637415DE4C0500F1C20D /* libz.1.1.3.dylib */,
 				C6F9AB6B15DD0E5900B25175 /* QuartzCore.framework */,
 				C6F9AB6D15DD0E5900B25175 /* OpenGLES.framework */,
 				C6F9AB6F15DD0E5900B25175 /* OpenAL.framework */,
